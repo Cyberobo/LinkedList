@@ -279,11 +279,8 @@ void menu(){
     printf("11-Listede max min deger bulma\n");
     printf("12-Listeyi sirala\n");
     printf("13-Listeye liste ekleme\n\n");
-    printf("14-Yeni liste olustur\n\n");
-    printf("15-Yeni liste eleman basa ekle");
-    printf("16-Listeye liste ekleme\n\n");
 
-
+    
 }
 
 int main()
